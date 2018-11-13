@@ -1,0 +1,7 @@
+D:\Uni\Programming\C#\right triangle\right triangle\bin\Debug\right triangle.exe.config
+D:\Uni\Programming\C#\right triangle\right triangle\bin\Debug\right triangle.exe
+D:\Uni\Programming\C#\right triangle\right triangle\bin\Debug\right triangle.pdb
+D:\Uni\Programming\C#\right triangle\right triangle\obj\Debug\right triangle.csprojAssemblyReference.cache
+D:\Uni\Programming\C#\right triangle\right triangle\obj\Debug\right triangle.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\C#\right triangle\right triangle\obj\Debug\right triangle.exe
+D:\Uni\Programming\C#\right triangle\right triangle\obj\Debug\right triangle.pdb
